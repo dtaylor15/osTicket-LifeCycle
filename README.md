@@ -33,7 +33,7 @@ https://github.com/dtaylor15/osTicket-LifeCycle/assets/101889571/23afe210-ade4-4
 
 <p>
 
-For this example, I signed in with the user credentials I configured in [osTicket System Administration Configuration](https://github.com/dtaylor15/osTicket-SystemAdmin-Config). I submitted a ticket as "Greg Universe" reporting an issue with his laptop's trackpad. Because Greg is registered on osTicket, he can view his ticket's progress and submission history. 
+For this example, I signed in with the user credentials I configured in [osTicket System Administration Configuration](https://github.com/dtaylor15/osTicket-SystemAdmin-Config). I submitted a ticket as "Greg Universe", an employee reporting an issue with his laptop's trackpad. Because Greg is registered on osTicket, he can view his ticket's progress and submission history. 
 
 </p>
 <br />
@@ -46,15 +46,39 @@ https://github.com/dtaylor15/osTicket-LifeCycle/assets/101889571/7ad7bdca-83af-4
 </p>
 <p>
 
-Because Greg used a [SEV-A]() help topic his ticket was categorized as an emergency and went directly to the system administrator (me). After reviewing the ticket, I determined that this request was not an emergency. His trackpad issue did not severely impact business operations, especially because he is able to maintain productivity using his external mouse. I reduced this ticket's priority to a low, SEV-C plan. I also re-assigned it to Garnet, an agent on the Level 1 Support team. Each action taken was recorded on the ticket thread. 
+Because Greg used a [SEV-A](https://github.com/dtaylor15/osTicket-SystemAdmin-Config#configure-helpdesk-sla) help topic his ticket was categorized as an emergency and went directly to the system administrator (me). After reviewing the ticket, I determined that this request was not an emergency. His trackpad issue did not severely impact business operations, especially because he was able to maintain productivity using his external mouse. I reduced this ticket's priority to a low, SEV-C plan. I also re-assigned it to Garnet, an agent on the Level 1 Support team. Each action taken was recorded on the ticket thread. 
 
 </p>
 <br />
 
+### Working the Issue
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+https://github.com/dtaylor15/osTicket-LifeCycle/assets/101889571/20c6f829-9a5c-4bdc-8e6d-e2528f0f5a91
+
 </p>
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This ticket was submitted by Jane Doe, a customer who categorized it with a normal severity level (SEV-B). After reviewing the ticket, I determined that this request was in fact an emergency. Jane received a 404 error indicating that her user portal was down. This prevented her from paying for services rendered. Because this ticket impacted business operations, I re-assigned the SLA to SEV-A and responded immediately.
 </p>
 <br />
+
+### Ticket Resolution 
+>**Note:**
+> A warm handoff is where one colleague passes off a task to another, using clear communication. In this example, the warm handoff occurred over the phone.
+
+<p>
+
+https://github.com/dtaylor15/osTicket-LifeCycle/assets/101889571/61321833-541c-408c-8efe-d6fa8c5af8f4
+
+</p>
+
+<p>
+Back to Greg's example: After a warm hand-off to Level 1 Support, this trackpad ticket was resolved by enabling the trackpad's function in Windows Device Manager. The actions taken to resolve this ticket were documented in the ticket thread. The closed ticket is available for review in Admin panel -> Tickets -> Closed. 
+
+</p>
+
+<br />
+
+## osTicket - Ticket Lifecycle: Intake Through Resolution Complete!👏🏾
