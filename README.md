@@ -17,10 +17,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - MacOS Ventura 13.0.1
 
 ## Ticket Lifecycle Stages
-1. Intake
-2. Assignment and Communication
-3. Working the Issue
-4. Resolution
+1. [Intake](https://github.com/dtaylor15/osTicket-LifeCycle#ticket-intake)
+2. [Assignment and Communication](https://github.com/dtaylor15/osTicket-LifeCycle#ticket-assignment-and-communication)
+3. [Working the Issue](https://github.com/dtaylor15/osTicket-LifeCycle#working-the-issue)
+4. [Resolution](https://github.com/dtaylor15/osTicket-LifeCycle#ticket-resolution)
 
 ## Lifecycle Stages
 
