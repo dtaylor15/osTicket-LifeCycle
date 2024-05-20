@@ -3,7 +3,7 @@
 </p>
 
 ## osTicket - Ticket Lifecycle: Intake Through Resolution
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system, osTicket.<br />
 
 ## Environments and Technologies Used
 
